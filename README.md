@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 [![Bangkit-app](https://github-readme-stats.vercel.app/api/pin/?username=FE-20-Group-Project&theme=outrun&repo=Bangkit-app&show_owner=true)](https://github.com/FE-20-Group-Project/Bangkit-app)
 
-[![TPA 3](https://github-readme-stats.vercel.app/api/pin/?username=Fazlu601&theme=outrun&repo=Bangkit-app&show_owner=true)](https://github.com/Fazlu601/skilmovie-TPA-3))
+[![TPA 3](https://github-readme-stats.vercel.app/api/pin/?username=Fazlu601&theme=outrun&repo=skilmovie-TPA-3&show_owner=true)](https://github.com/Fazlu601/skilmovie-TPA-3)
 
-[![TPA 2](https://github-readme-stats.vercel.app/api/pin/?username=Fazlu601&theme=outrun&repo=Bangkit-app&show_owner=true)](https://github.com/Fazlu601/BMI-calculator))
+[![TPA 2](https://github-readme-stats.vercel.app/api/pin/?username=Fazlu601&theme=outrun&repo=BMI-calculator&show_owner=true)](https://github.com/Fazlu601/BMI-calculator)
 
-[![TPA 1](https://github-readme-stats.vercel.app/api/pin/?username=Fazlu601&theme=outrun&repo=Bangkit-app&show_owner=true)](https://github.com/Fazlu601/portofolio))
+[![TPA 1](https://github-readme-stats.vercel.app/api/pin/?username=Fazlu601&theme=outrun&repo=portofolio&show_owner=true)](https://github.com/Fazlu601/portofolio)
