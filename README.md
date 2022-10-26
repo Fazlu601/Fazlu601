@@ -1,5 +1,5 @@
 ### Hi there I am Fazlu Rachman 👋
-You can contact me at :
+## You can contact me at :
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 <!--
 **Fazlu601/Fazlu601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
