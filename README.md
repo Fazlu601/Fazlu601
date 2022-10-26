@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazlu601&hide=javascript,html)
 
 
-[![Bangkit-app](https://github-readme-stats.vercel.app/api/pin/?username=Fazlu601&repo=Bangkit-app&show_owner=true)](https://github.com/FE-20-Group-Project/Bangkit-app)
+[![Bangkit-app](https://github-readme-stats.vercel.app/api/pin/?username=FE-20-Group-Project&repo=Bangkit-app&show_owner=true)](https://github.com/FE-20-Group-Project/Bangkit-app)
